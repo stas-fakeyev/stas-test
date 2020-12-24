@@ -1,0 +1,6 @@
+stastest.loc
+
+adminpanel
+login: admin_stas123
+
+pass: wlxtQ*dGotTho1wu#b
